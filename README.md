@@ -1,5 +1,7 @@
 # Cybersecurity Skills Router / Reverse-Engineering Skill Routing Pack
 
+> Safety override: Before the user explicitly allows it, AI agents must not automatically install any software, run bootstrap installers, or register new MCP servers. Missing tools must be reported with purpose, impact, and proposed commands, then execution must wait for user approval.
+
 > An AI Agent workflow router and tool orchestration system for reverse engineering, security analysis, and CTF tasks.
 
 **Human readers:** start with [OVERVIEW.md](OVERVIEW.md).

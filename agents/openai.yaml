@@ -1,0 +1,7 @@
+interface:
+  display_name: "Reverse Skill"
+  short_description: "逆向工程和安全任务路由器"
+  default_prompt: "使用 $reverse-skill 路由并处理这个已授权的逆向工程或安全分析任务."
+
+policy:
+  allow_implicit_invocation: true

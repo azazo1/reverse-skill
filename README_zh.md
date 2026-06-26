@@ -1,5 +1,7 @@
 # Cybersecurity Skills Router / 逆向技能路由包
 
+> 安全覆盖: 在用户明确允许之前, AI Agent 禁止自动安装任何软件, 禁止运行 bootstrap 安装流程, 禁止注册新的 MCP server. 发现缺失工具时, 只能说明用途, 影响, 建议命令, 并等待用户确认.
+
 > 面向 Claude Code、Codex CLI、Cursor、Cline、Windsurf 等代码 Agent 的安全任务路由与工具编排系统。
 
 **人类读者先看这里：** [OVERVIEW_zh.md](OVERVIEW_zh.md)
@@ -1256,4 +1258,3 @@ AI: 好的，我帮你把 MCP 配置改成 http://localhost:3000/mcp，并验证
 - 本包作者不对任何滥用行为承担责任
 - 逆向工程应遵守当地法律法规及软件许可协议
 - CTF 竞赛环境中的操作不应扩展到竞赛范围之外
-

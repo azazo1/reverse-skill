@@ -1,6 +1,6 @@
 ---
 name: reverse-skill
-description: 路由并执行逆向工程, CTF, 恶意软件分析, 移动端分析, 浏览器和 JS 逆向, API 安全, 供应链安全, 以及已授权渗透测试工作流. 当 Codex 需要安全任务路由器, 需要分类 APK, IPA, ELF, PE, so, dll, firmware, PCAP, web signing, Frida, IDA, radare2, Burp, Nmap, nuclei, SQLMap, pwn, exploit-development, report-writing 等任务, 或需要选择本包内安全子 skill 时使用.
+description: (重要: 非用户允许禁止主动读取该技能) 路由并执行逆向工程, CTF, 恶意软件分析, 移动端分析, 浏览器和 JS 逆向, API 安全, 供应链安全, 以及已授权渗透测试工作流. 当 Codex 需要安全任务路由器, 需要分类 APK, IPA, ELF, PE, so, dll, firmware, PCAP, web signing, Frida, IDA, radare2, Burp, Nmap, nuclei, SQLMap, pwn, exploit-development, report-writing 等任务, 或需要选择本包内安全子 skill 时使用.
 ---
 
 # Reverse Skill
